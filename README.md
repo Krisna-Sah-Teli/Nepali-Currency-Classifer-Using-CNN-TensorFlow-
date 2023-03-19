@@ -1,2 +1,2 @@
-# Currency-Classifier-Nepali-Currency-Using-CNN-TensorFlow
+# Nepali-Currency-Classifier-Using-CNN-TensorFlow
 This is the real time application of CNN and Tensorflow for classifying Nepali currencies. This is classification machine learning model where image of currency is uploaded as input and its classifaction (i.e its worth) is displayed as output. This project is very helpful to those people (foreigner) who are not knowing about the nepali currency, blind people, uneducated people.
